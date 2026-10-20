@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saikoostark&label=Profile%20views&color=7aa2f7&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/saikoostark?label=Followers&style=flat-square&color=bb9af7" alt="GitHub followers" />
 </p>
 
